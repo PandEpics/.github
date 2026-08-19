@@ -5,7 +5,11 @@ There was a flurry of research during the pandemic, with many papers attempting 
 In this organization, we will perform replications of pandemic studies using the data available at different points in the pandemic to see what would happen.
 
 - Did the estimates of the epidemiological parameters change?
+    - Were these changes within the error bounds?
+    - Did the error bounds decrease over time?
 - Did the predictions pan out?
+    - Were the predictions within the error bounds?
+    - If we tried to make this prediction earlier, how wrong would we have been?
 - Did data collection issues translate into flawed conclusions in the models?
 - For decisions made based on studies, could we have made those decisions earlier if we had done the analysis earlier?
 
